@@ -1,0 +1,20 @@
+{
+    "env" : {
+        "myDefaultIncludePath" : [
+            "${workspaceFolder}"
+        ]
+    },
+    "configurations": [
+        {
+            "name": "RPi",
+            "intelliSenseMode": "clang-x64",
+            "includePath": [ "${myDefaultIncludePath}" ],
+            "defines": [],
+            "browse": {
+                "path": [],
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+            }
+        }
+    ]
+}

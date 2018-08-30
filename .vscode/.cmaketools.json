@@ -1,0 +1,533 @@
+{
+  "variant": {
+    "label": "Release",
+    "keywordSettings": {
+      "buildType": "release"
+    },
+    "description": "Enable optimizations, omit debug info"
+  },
+  "activeEnvironments": [],
+  "codeModel": {
+    "configurations": [
+      {
+        "name": "Release",
+        "projects": [
+          {
+            "buildDirectory": "/home/pi/Source/adxl355-cpp-sdk/build",
+            "name": "ADXL355_Sample",
+            "sourceDirectory": "/home/pi/Source/adxl355-cpp-sdk",
+            "targets": [
+              {
+                "buildDirectory": "/home/pi/Source/adxl355-cpp-sdk/build",
+                "fileGroups": [
+                  {
+                    "isGenerated": true,
+                    "sources": [
+                      "build/CMakeFiles/ExperimentalStart",
+                      "build/CMakeFiles/ExperimentalStart.rule"
+                    ]
+                  }
+                ],
+                "fullName": "ExperimentalStart",
+                "name": "ExperimentalStart",
+                "sourceDirectory": "/home/pi/Source/adxl355-cpp-sdk",
+                "type": "UTILITY"
+              },
+              {
+                "buildDirectory": "/home/pi/Source/adxl355-cpp-sdk/build",
+                "fileGroups": [
+                  {
+                    "isGenerated": true,
+                    "sources": [
+                      "build/CMakeFiles/ExperimentalBuild",
+                      "build/CMakeFiles/ExperimentalBuild.rule"
+                    ]
+                  }
+                ],
+                "fullName": "ExperimentalBuild",
+                "name": "ExperimentalBuild",
+                "sourceDirectory": "/home/pi/Source/adxl355-cpp-sdk",
+                "type": "UTILITY"
+              },
+              {
+                "buildDirectory": "/home/pi/Source/adxl355-cpp-sdk/build",
+                "fileGroups": [
+                  {
+                    "isGenerated": true,
+                    "sources": [
+                      "build/CMakeFiles/ExperimentalConfigure",
+                      "build/CMakeFiles/ExperimentalConfigure.rule"
+                    ]
+                  }
+                ],
+                "fullName": "ExperimentalConfigure",
+                "name": "ExperimentalConfigure",
+                "sourceDirectory": "/home/pi/Source/adxl355-cpp-sdk",
+                "type": "UTILITY"
+              },
+              {
+                "buildDirectory": "/home/pi/Source/adxl355-cpp-sdk/build",
+                "fileGroups": [
+                  {
+                    "isGenerated": true,
+                    "sources": [
+                      "build/CMakeFiles/ExperimentalTest",
+                      "build/CMakeFiles/ExperimentalTest.rule"
+                    ]
+                  }
+                ],
+                "fullName": "ExperimentalTest",
+                "name": "ExperimentalTest",
+                "sourceDirectory": "/home/pi/Source/adxl355-cpp-sdk",
+                "type": "UTILITY"
+              },
+              {
+                "buildDirectory": "/home/pi/Source/adxl355-cpp-sdk/build",
+                "fileGroups": [
+                  {
+                    "isGenerated": true,
+                    "sources": [
+                      "build/CMakeFiles/ExperimentalSubmit",
+                      "build/CMakeFiles/ExperimentalSubmit.rule"
+                    ]
+                  }
+                ],
+                "fullName": "ExperimentalSubmit",
+                "name": "ExperimentalSubmit",
+                "sourceDirectory": "/home/pi/Source/adxl355-cpp-sdk",
+                "type": "UTILITY"
+              },
+              {
+                "buildDirectory": "/home/pi/Source/adxl355-cpp-sdk/build",
+                "fileGroups": [
+                  {
+                    "isGenerated": true,
+                    "sources": [
+                      "build/CMakeFiles/ContinuousUpdate",
+                      "build/CMakeFiles/ContinuousUpdate.rule"
+                    ]
+                  }
+                ],
+                "fullName": "ContinuousUpdate",
+                "name": "ContinuousUpdate",
+                "sourceDirectory": "/home/pi/Source/adxl355-cpp-sdk",
+                "type": "UTILITY"
+              },
+              {
+                "buildDirectory": "/home/pi/Source/adxl355-cpp-sdk/build",
+                "fileGroups": [
+                  {
+                    "isGenerated": true,
+                    "sources": [
+                      "build/CMakeFiles/NightlyCoverage",
+                      "build/CMakeFiles/NightlyCoverage.rule"
+                    ]
+                  }
+                ],
+                "fullName": "NightlyCoverage",
+                "name": "NightlyCoverage",
+                "sourceDirectory": "/home/pi/Source/adxl355-cpp-sdk",
+                "type": "UTILITY"
+              },
+              {
+                "buildDirectory": "/home/pi/Source/adxl355-cpp-sdk/build",
+                "fileGroups": [
+                  {
+                    "isGenerated": true,
+                    "sources": [
+                      "build/CMakeFiles/NightlySubmit",
+                      "build/CMakeFiles/NightlySubmit.rule"
+                    ]
+                  }
+                ],
+                "fullName": "NightlySubmit",
+                "name": "NightlySubmit",
+                "sourceDirectory": "/home/pi/Source/adxl355-cpp-sdk",
+                "type": "UTILITY"
+              },
+              {
+                "buildDirectory": "/home/pi/Source/adxl355-cpp-sdk/build",
+                "fileGroups": [
+                  {
+                    "isGenerated": true,
+                    "sources": [
+                      "build/CMakeFiles/NightlyUpdate",
+                      "build/CMakeFiles/NightlyUpdate.rule"
+                    ]
+                  }
+                ],
+                "fullName": "NightlyUpdate",
+                "name": "NightlyUpdate",
+                "sourceDirectory": "/home/pi/Source/adxl355-cpp-sdk",
+                "type": "UTILITY"
+              },
+              {
+                "buildDirectory": "/home/pi/Source/adxl355-cpp-sdk/build",
+                "fileGroups": [
+                  {
+                    "isGenerated": true,
+                    "sources": [
+                      "build/CMakeFiles/ExperimentalCoverage",
+                      "build/CMakeFiles/ExperimentalCoverage.rule"
+                    ]
+                  }
+                ],
+                "fullName": "ExperimentalCoverage",
+                "name": "ExperimentalCoverage",
+                "sourceDirectory": "/home/pi/Source/adxl355-cpp-sdk",
+                "type": "UTILITY"
+              },
+              {
+                "artifacts": [
+                  "/home/pi/Source/adxl355-cpp-sdk/build/ADXL355_Sample"
+                ],
+                "buildDirectory": "/home/pi/Source/adxl355-cpp-sdk/build",
+                "fileGroups": [
+                  {
+                    "isGenerated": false,
+                    "sources": [
+                      "ADXL355.h"
+                    ]
+                  },
+                  {
+                    "compileFlags": "-O3 -DNDEBUG  ",
+                    "isGenerated": false,
+                    "language": "CXX",
+                    "sources": [
+                      "main.cpp"
+                    ]
+                  }
+                ],
+                "fullName": "ADXL355_Sample",
+                "linkLanguageFlags": "-O3 -DNDEBUG",
+                "linkLibraries": "-rdynamic libADXL355_I2C.a -lwiringPi",
+                "linkerLanguage": "CXX",
+                "name": "ADXL355_Sample",
+                "sourceDirectory": "/home/pi/Source/adxl355-cpp-sdk",
+                "type": "EXECUTABLE"
+              },
+              {
+                "buildDirectory": "/home/pi/Source/adxl355-cpp-sdk/build",
+                "fileGroups": [
+                  {
+                    "isGenerated": true,
+                    "sources": [
+                      "build/CMakeFiles/ContinuousStart",
+                      "build/CMakeFiles/ContinuousStart.rule"
+                    ]
+                  }
+                ],
+                "fullName": "ContinuousStart",
+                "name": "ContinuousStart",
+                "sourceDirectory": "/home/pi/Source/adxl355-cpp-sdk",
+                "type": "UTILITY"
+              },
+              {
+                "buildDirectory": "/home/pi/Source/adxl355-cpp-sdk/build",
+                "fileGroups": [
+                  {
+                    "isGenerated": true,
+                    "sources": [
+                      "build/CMakeFiles/ContinuousCoverage",
+                      "build/CMakeFiles/ContinuousCoverage.rule"
+                    ]
+                  }
+                ],
+                "fullName": "ContinuousCoverage",
+                "name": "ContinuousCoverage",
+                "sourceDirectory": "/home/pi/Source/adxl355-cpp-sdk",
+                "type": "UTILITY"
+              },
+              {
+                "buildDirectory": "/home/pi/Source/adxl355-cpp-sdk/build",
+                "fileGroups": [
+                  {
+                    "isGenerated": true,
+                    "sources": [
+                      "build/CMakeFiles/ContinuousTest",
+                      "build/CMakeFiles/ContinuousTest.rule"
+                    ]
+                  }
+                ],
+                "fullName": "ContinuousTest",
+                "name": "ContinuousTest",
+                "sourceDirectory": "/home/pi/Source/adxl355-cpp-sdk",
+                "type": "UTILITY"
+              },
+              {
+                "buildDirectory": "/home/pi/Source/adxl355-cpp-sdk/build",
+                "fileGroups": [
+                  {
+                    "isGenerated": true,
+                    "sources": [
+                      "build/CMakeFiles/ContinuousConfigure",
+                      "build/CMakeFiles/ContinuousConfigure.rule"
+                    ]
+                  }
+                ],
+                "fullName": "ContinuousConfigure",
+                "name": "ContinuousConfigure",
+                "sourceDirectory": "/home/pi/Source/adxl355-cpp-sdk",
+                "type": "UTILITY"
+              },
+              {
+                "buildDirectory": "/home/pi/Source/adxl355-cpp-sdk/build",
+                "fileGroups": [
+                  {
+                    "isGenerated": true,
+                    "sources": [
+                      "build/CMakeFiles/ContinuousMemCheck",
+                      "build/CMakeFiles/ContinuousMemCheck.rule"
+                    ]
+                  }
+                ],
+                "fullName": "ContinuousMemCheck",
+                "name": "ContinuousMemCheck",
+                "sourceDirectory": "/home/pi/Source/adxl355-cpp-sdk",
+                "type": "UTILITY"
+              },
+              {
+                "buildDirectory": "/home/pi/Source/adxl355-cpp-sdk/build",
+                "fileGroups": [
+                  {
+                    "isGenerated": true,
+                    "sources": [
+                      "build/CMakeFiles/NightlyStart",
+                      "build/CMakeFiles/NightlyStart.rule"
+                    ]
+                  }
+                ],
+                "fullName": "NightlyStart",
+                "name": "NightlyStart",
+                "sourceDirectory": "/home/pi/Source/adxl355-cpp-sdk",
+                "type": "UTILITY"
+              },
+              {
+                "buildDirectory": "/home/pi/Source/adxl355-cpp-sdk/build",
+                "fileGroups": [
+                  {
+                    "isGenerated": true,
+                    "sources": [
+                      "build/CMakeFiles/ContinuousSubmit",
+                      "build/CMakeFiles/ContinuousSubmit.rule"
+                    ]
+                  }
+                ],
+                "fullName": "ContinuousSubmit",
+                "name": "ContinuousSubmit",
+                "sourceDirectory": "/home/pi/Source/adxl355-cpp-sdk",
+                "type": "UTILITY"
+              },
+              {
+                "buildDirectory": "/home/pi/Source/adxl355-cpp-sdk/build",
+                "fileGroups": [
+                  {
+                    "isGenerated": true,
+                    "sources": [
+                      "build/CMakeFiles/Experimental",
+                      "build/CMakeFiles/Experimental.rule"
+                    ]
+                  }
+                ],
+                "fullName": "Experimental",
+                "name": "Experimental",
+                "sourceDirectory": "/home/pi/Source/adxl355-cpp-sdk",
+                "type": "UTILITY"
+              },
+              {
+                "buildDirectory": "/home/pi/Source/adxl355-cpp-sdk/build",
+                "fileGroups": [
+                  {
+                    "isGenerated": true,
+                    "sources": [
+                      "build/CMakeFiles/ExperimentalUpdate",
+                      "build/CMakeFiles/ExperimentalUpdate.rule"
+                    ]
+                  }
+                ],
+                "fullName": "ExperimentalUpdate",
+                "name": "ExperimentalUpdate",
+                "sourceDirectory": "/home/pi/Source/adxl355-cpp-sdk",
+                "type": "UTILITY"
+              },
+              {
+                "buildDirectory": "/home/pi/Source/adxl355-cpp-sdk/build",
+                "fileGroups": [
+                  {
+                    "isGenerated": true,
+                    "sources": [
+                      "build/CMakeFiles/ContinuousBuild",
+                      "build/CMakeFiles/ContinuousBuild.rule"
+                    ]
+                  }
+                ],
+                "fullName": "ContinuousBuild",
+                "name": "ContinuousBuild",
+                "sourceDirectory": "/home/pi/Source/adxl355-cpp-sdk",
+                "type": "UTILITY"
+              },
+              {
+                "buildDirectory": "/home/pi/Source/adxl355-cpp-sdk/build",
+                "fileGroups": [
+                  {
+                    "isGenerated": true,
+                    "sources": [
+                      "build/CMakeFiles/NightlyConfigure",
+                      "build/CMakeFiles/NightlyConfigure.rule"
+                    ]
+                  }
+                ],
+                "fullName": "NightlyConfigure",
+                "name": "NightlyConfigure",
+                "sourceDirectory": "/home/pi/Source/adxl355-cpp-sdk",
+                "type": "UTILITY"
+              },
+              {
+                "artifacts": [
+                  "/home/pi/Source/adxl355-cpp-sdk/build/libADXL355_I2C.a"
+                ],
+                "buildDirectory": "/home/pi/Source/adxl355-cpp-sdk/build",
+                "fileGroups": [
+                  {
+                    "isGenerated": false,
+                    "sources": [
+                      "ADXL355.h"
+                    ]
+                  },
+                  {
+                    "compileFlags": "-O3 -DNDEBUG  ",
+                    "isGenerated": false,
+                    "language": "CXX",
+                    "sources": [
+                      "ADXL355.cpp"
+                    ]
+                  }
+                ],
+                "fullName": "libADXL355_I2C.a",
+                "linkerLanguage": "CXX",
+                "name": "ADXL355_I2C",
+                "sourceDirectory": "/home/pi/Source/adxl355-cpp-sdk",
+                "type": "STATIC_LIBRARY"
+              },
+              {
+                "buildDirectory": "/home/pi/Source/adxl355-cpp-sdk/build",
+                "fileGroups": [
+                  {
+                    "isGenerated": true,
+                    "sources": [
+                      "build/CMakeFiles/NightlyMemCheck",
+                      "build/CMakeFiles/NightlyMemCheck.rule"
+                    ]
+                  }
+                ],
+                "fullName": "NightlyMemCheck",
+                "name": "NightlyMemCheck",
+                "sourceDirectory": "/home/pi/Source/adxl355-cpp-sdk",
+                "type": "UTILITY"
+              },
+              {
+                "buildDirectory": "/home/pi/Source/adxl355-cpp-sdk/build",
+                "fileGroups": [
+                  {
+                    "isGenerated": true,
+                    "sources": [
+                      "build/CMakeFiles/Nightly",
+                      "build/CMakeFiles/Nightly.rule"
+                    ]
+                  }
+                ],
+                "fullName": "Nightly",
+                "name": "Nightly",
+                "sourceDirectory": "/home/pi/Source/adxl355-cpp-sdk",
+                "type": "UTILITY"
+              },
+              {
+                "buildDirectory": "/home/pi/Source/adxl355-cpp-sdk/build",
+                "fileGroups": [
+                  {
+                    "isGenerated": true,
+                    "sources": [
+                      "build/CMakeFiles/NightlyTest",
+                      "build/CMakeFiles/NightlyTest.rule"
+                    ]
+                  }
+                ],
+                "fullName": "NightlyTest",
+                "name": "NightlyTest",
+                "sourceDirectory": "/home/pi/Source/adxl355-cpp-sdk",
+                "type": "UTILITY"
+              },
+              {
+                "buildDirectory": "/home/pi/Source/adxl355-cpp-sdk/build",
+                "fileGroups": [
+                  {
+                    "isGenerated": true,
+                    "sources": [
+                      "build/CMakeFiles/NightlyBuild",
+                      "build/CMakeFiles/NightlyBuild.rule"
+                    ]
+                  }
+                ],
+                "fullName": "NightlyBuild",
+                "name": "NightlyBuild",
+                "sourceDirectory": "/home/pi/Source/adxl355-cpp-sdk",
+                "type": "UTILITY"
+              },
+              {
+                "buildDirectory": "/home/pi/Source/adxl355-cpp-sdk/build",
+                "fileGroups": [
+                  {
+                    "isGenerated": true,
+                    "sources": [
+                      "build/CMakeFiles/ExperimentalMemCheck",
+                      "build/CMakeFiles/ExperimentalMemCheck.rule"
+                    ]
+                  }
+                ],
+                "fullName": "ExperimentalMemCheck",
+                "name": "ExperimentalMemCheck",
+                "sourceDirectory": "/home/pi/Source/adxl355-cpp-sdk",
+                "type": "UTILITY"
+              },
+              {
+                "buildDirectory": "/home/pi/Source/adxl355-cpp-sdk/build",
+                "fileGroups": [
+                  {
+                    "isGenerated": true,
+                    "sources": [
+                      "build/CMakeFiles/Continuous",
+                      "build/CMakeFiles/Continuous.rule"
+                    ]
+                  }
+                ],
+                "fullName": "Continuous",
+                "name": "Continuous",
+                "sourceDirectory": "/home/pi/Source/adxl355-cpp-sdk",
+                "type": "UTILITY"
+              },
+              {
+                "buildDirectory": "/home/pi/Source/adxl355-cpp-sdk/build",
+                "fileGroups": [
+                  {
+                    "isGenerated": true,
+                    "sources": [
+                      "build/CMakeFiles/NightlyMemoryCheck",
+                      "build/CMakeFiles/NightlyMemoryCheck.rule"
+                    ]
+                  }
+                ],
+                "fullName": "NightlyMemoryCheck",
+                "name": "NightlyMemoryCheck",
+                "sourceDirectory": "/home/pi/Source/adxl355-cpp-sdk",
+                "type": "UTILITY"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "cookie": "0.6107450676231079",
+    "inReplyTo": "codemodel",
+    "type": "reply"
+  }
+}
